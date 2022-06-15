@@ -3,3 +3,93 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "assertive"]
+	path = assertive
+	url = https://bitbucket.org/richierocks/assertive
+	shallow = true
+	registered = true
+[submodule "assertive.base"]
+	path = assertive.base
+	url = https://bitbucket.org/richierocks/assertive.base
+	shallow = true
+	registered = true
+[submodule "assertive.code"]
+	path = assertive.code
+	url = https://bitbucket.org/richierocks/assertive.code
+	shallow = true
+	registered = true
+[submodule "assertive.data"]
+	path = assertive.data
+	url = https://bitbucket.org/richierocks/assertive.data
+	shallow = true
+	registered = true
+[submodule "assertive.data.uk"]
+	path = assertive.data.uk
+	url = https://bitbucket.org/richierocks/assertive.data.uk
+	shallow = true
+	registered = true
+[submodule "assertive.data.us"]
+	path = assertive.data.us
+	url = https://bitbucket.org/richierocks/assertive.data.us
+	shallow = true
+	registered = true
+[submodule "assertive.datetimes"]
+	path = assertive.datetimes
+	url = https://bitbucket.org/richierocks/assertive.datetimes
+	shallow = true
+	registered = true
+[submodule "assertive.files"]
+	path = assertive.files
+	url = https://bitbucket.org/richierocks/assertive.files
+	shallow = true
+	registered = true
+[submodule "assertive.matrices"]
+	path = assertive.matrices
+	url = https://bitbucket.org/richierocks/assertive.matrices
+	shallow = true
+	registered = true
+[submodule "assertive.models"]
+	path = assertive.models
+	url = https://bitbucket.org/richierocks/assertive.models
+	shallow = true
+	registered = true
+[submodule "assertive.numbers"]
+	path = assertive.numbers
+	url = https://bitbucket.org/richierocks/assertive.numbers
+	shallow = true
+	registered = true
+[submodule "assertive.properties"]
+	path = assertive.properties
+	url = https://bitbucket.org/richierocks/assertive.properties
+	shallow = true
+	registered = true
+[submodule "assertive.reflection"]
+	path = assertive.reflection
+	url = https://bitbucket.org/richierocks/assertive.reflection
+	shallow = true
+	registered = true
+[submodule "assertive.sets"]
+	path = assertive.sets
+	url = https://bitbucket.org/richierocks/assertive.sets
+	shallow = true
+	registered = true
+[submodule "assertive.strings"]
+	path = assertive.strings
+	url = https://bitbucket.org/richierocks/assertive.strings
+	shallow = true
+	registered = true
+[submodule "assertive.types"]
+	path = assertive.types
+	url = https://bitbucket.org/richierocks/assertive.types
+	shallow = true
+	registered = true
+[submodule "setter"]
+	path = setter
+	url = https://bitbucket.org/richierocks/setter
+	shallow = true
+	registered = true
+[submodule "sig"]
+	path = sig
+	url = https://bitbucket.org/richierocks/sig
+	shallow = true
+	registered = true

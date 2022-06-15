@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "package": "assertive",
+    "oncran": true
+  },
+  {
+    "package": "assertive.base",
+    "oncran": true
+  },
+  {
+    "package": "assertive.code",
+    "oncran": true
+  },
+  {
+    "package": "assertive.data",
+    "oncran": true
+  },
+  {
+    "package": "assertive.data.uk",
+    "oncran": true
+  },
+  {
+    "package": "assertive.data.us",
+    "oncran": true
+  },
+  {
+    "package": "assertive.datetimes",
+    "oncran": true
+  },
+  {
+    "package": "assertive.files",
+    "oncran": true
+  },
+  {
+    "package": "assertive.matrices",
+    "oncran": true
+  },
+  {
+    "package": "assertive.models",
+    "oncran": true
+  },
+  {
+    "package": "assertive.numbers",
+    "oncran": true
+  },
+  {
+    "package": "assertive.properties",
+    "oncran": true
+  },
+  {
+    "package": "assertive.reflection",
+    "oncran": true
+  },
+  {
+    "package": "assertive.sets",
+    "oncran": true
+  },
+  {
+    "package": "assertive.strings",
+    "oncran": true
+  },
+  {
+    "package": "assertive.types",
+    "oncran": true
+  },
+  {
+    "package": "setter",
+    "oncran": true
+  },
+  {
+    "package": "sig",
+    "oncran": true
+  }
+]
